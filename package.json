@@ -1,0 +1,19 @@
+{
+  "name": "prova-cjs-esm-sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lorenzo Campanelli",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^6.3.4",
+    "sequelize-auto": "^0.5.3",
+    "tedious": "^9.1.0"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.2.0"
+  }
+}
